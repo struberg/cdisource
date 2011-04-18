@@ -6,4 +6,6 @@ target/
 release.properties
 *.releaseBackup
 *.versionsBackup
-
+*.iml
+*.ipr
+*.iws
